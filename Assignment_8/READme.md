@@ -1,4 +1,4 @@
-RESULTS:
+RESULTS using neural network:
 
 Test accuracy: 0.9607462882995605
 
